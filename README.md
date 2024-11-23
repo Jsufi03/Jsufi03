@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Jsufi03
-- 🌱 I’m currently learning Structured Query Language and JavaScript
-- ⚡ Looking for a role in Data Analytics
+- 🌱 I’m currently learning Python
+- ⚡ Looking for a role in Technology and Insurance
